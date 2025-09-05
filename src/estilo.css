@@ -1,0 +1,145 @@
+html {
+    background-color:  hsl(0, 0%, 8%);
+    color: #f5f5f5f5;
+    font-family: "Inter", sans-serif;
+    
+}
+
+
+
+.container {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    border: 1px solid  hsl(0, 0%, 12%);
+    width: 400px;
+    height: 600px;
+    border-radius: 10px;
+    background-color: hsl(0, 0%, 12%);
+    flex-direction: column;
+    text-decoration: none;
+    margin: 70px 450px ;
+}
+
+img {
+    width: 170px;
+    height: 170px;
+    border-radius: 200%;
+    margin-bottom: 5px;
+    margin-left: 110px;
+}
+
+.nome{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 5px;
+}
+
+.lugar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:  hsl(75, 94%, 57%);
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+
+p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    padding: 10px;
+    margin-bottom: 10px;
+    
+}
+
+
+
+.github {
+    background-color:  hsl(0, 0%, 20%);
+    border: 1px solid hsl(0, 0%, 20%);
+    border-radius: 5px;
+    width: 300px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+}
+
+.linkedin {
+    background-color:  hsl(0, 0%, 20%);
+    border: 1px solid hsl(0, 0%, 20%);
+    border-radius:5px;
+    width: 300px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+}
+
+.whatsapp {
+    background-color:  hsl(0, 0%, 20%);
+    border: 1px solid hsl(0, 0%, 20%);
+    border-radius: 5px;
+    width: 300px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+}
+
+.front {
+    background-color:  hsl(0, 0%, 20%);
+    border: 1px solid hsl(0, 0%, 20%);
+    border-radius:5px;
+    width: 300px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+}
+
+.instagram {
+    background-color:  hsl(0, 0%, 20%);
+    border: 1px solid hsl(0, 0%, 20%);
+    border-radius: 5px;
+    width: 300px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+   
+}
+
+ .botoes li a {
+    transition: 0.3s ease-in-out;
+    padding: 10px;
+   
+    
+}
+
+.botoes li a:hover {
+    background-color: hsl(75, 94%, 57%);
+    color:  hsl(0, 0%, 12%);
+    width: 300px;
+    justify-content: center;
+    display: flex;
+    border-radius: 5px;
+}
+
+
+
+    
+
